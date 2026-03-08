@@ -1,5 +1,5 @@
 # TOR_Projects
-# TOR Version 1 
+# TOR Version 1 - Project 1
 
 A simple **TOR-like anonymous messaging network simulation** built using **Python, sockets, threading, and onion encryption**.
 
