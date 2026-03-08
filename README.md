@@ -63,7 +63,7 @@ Each node decrypts **one layer**.
 
 ```bash
 git clone https://github.com/VISHRUTH-DBS//TOR_Projects.git
-cd /TOR_Projects
+cd TOR_Projects
 ```
 
 ### 2️⃣ Install Required Library
